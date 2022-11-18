@@ -1,1 +1,1 @@
-# Pharmacy-Application
+# XYZ Pharmacy-Application
